@@ -50,3 +50,68 @@ Final_price = total + GST
 print (total)
 print (Final_price)
 print (GST)
+
+a = 20
+b = 3
+
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
+print(a // b)
+print(a % b)
+print(a ** b)
+
+a=10
+a *= 2
+print(a)
+
+a = 20
+a+= 5
+print(a)
+
+a =20
+a-= 10
+print(a)
+
+a = 20
+a /= 4
+print(a)    
+
+a = 10
+b = 20
+
+print(a == b)
+print(a != b)
+print(a > b)
+print(a < b)
+print(a >= b)
+print(a <= b)
+
+a = 10
+b = 10
+
+print(a is b)
+
+print(a is not b)
+
+fruits = ["apple","banana","mango"]
+
+print("apple" in fruits)
+
+print("orange" in fruits)
+
+print("grapes" not in fruits)
+
+a = 5
+b = 3
+
+print(a & b)
+print(a | b)
+print(a ^ b)
+
+print(10 + 5 * 2)
+
+print((10 + 5) * 2)
+
+print(100 / 5 + 2 * 3)

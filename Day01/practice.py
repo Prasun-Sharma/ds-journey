@@ -85,4 +85,5 @@ print(type(b))
 print(type(c))
 print(type(d))
 
-
+a = int(input("enter your number : "))
+print("the square of your number is : ", a**2)
